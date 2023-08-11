@@ -1,0 +1,60 @@
+{
+  "todos": [
+    {
+      "id": 10230123,
+      "title": "Json Server Ogren",
+      "isDone": "false",
+      "date": "6/11/2023"
+    },
+    {
+      "id": 10230124
+    },
+    {
+      "id": 10230125
+    },
+    {
+      "id": 10230126
+    },
+    {
+      "id": 10230127
+    },
+    {
+      "id": 10230128
+    },
+    {
+      "id": 10230129
+    },
+    {
+      "id": 1691599137386,
+      "title": "tysrtytr",
+      "date": "2023-08-09T16:38:57.386Z",
+      "isDone": false
+    },
+    {
+      "id": 1691607730659,
+      "title": "ertgrdtg",
+      "date": "2023-08-09T19:02:10.659Z",
+      "isDone": false
+    },
+    {
+      "id": 1691735415672,
+      "title": "dfgd",
+      "date": "2023-08-11T06:30:15.672Z",
+      "isDone": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Tillam"
+    },
+    {
+      "id": 2,
+      "name": "Gozum"
+    },
+    {
+      "id": 3,
+      "name": "Kuzum"
+    }
+  ]
+}
